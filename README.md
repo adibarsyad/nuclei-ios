@@ -3,11 +3,11 @@
 This template is to check this following config:
 
  
- ```-check the permission 
+ ```-check the permission ```
 	
- -check the minimum ios
+``` -check the minimum ios```
 	
- -check the insecure function use```
+ ```-check the insecure function use```
 
 
 
